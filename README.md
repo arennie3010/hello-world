@@ -1,2 +1,3 @@
 # hello-world
-Dummy repository
+
+Dummy description for initialuse of commits in Github.
